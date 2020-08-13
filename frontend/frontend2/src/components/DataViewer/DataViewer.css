@@ -167,7 +167,15 @@
     border-radius: unset
   }
 
-  input[type=number], select {
+  /* input[type=number], select {
+    padding: 5px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color:#000000;
+  } */
+  input[type=text], select {
     padding: 5px 10px;
     display: inline-block;
     border: 1px solid #ccc;
